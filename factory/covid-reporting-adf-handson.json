@@ -1,0 +1,9 @@
+{
+	"name": "covid-reporting-adf-handson",
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "abe9df91-d988-4fd0-98c6-c9a133cdcd2a",
+		"tenantId": "44d9170c-2ed5-454f-9dd6-be4e361ea064"
+	}
+}
